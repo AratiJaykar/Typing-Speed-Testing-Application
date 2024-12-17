@@ -1,0 +1,33 @@
+.container-fluid
+{
+  text-align: center;
+}
+
+
+
+.sample-text {
+  font-size: 1.2em;
+  text-align: justify;
+  border: 2px solid ;
+  padding:10px;
+  border-radius: 5px;
+}
+
+textarea {
+  width: 80%;
+  font-size: 1em;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.results {
+  margin-top: 30px;
+  font-size: 1.2em;
+  color: green;
+} 
+.submit-button
+{
+  max-width: 300px;
+  
+}
